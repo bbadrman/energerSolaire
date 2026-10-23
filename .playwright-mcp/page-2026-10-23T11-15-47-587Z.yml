@@ -1,0 +1,209 @@
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - generic [ref=e6]:
+      - link "Energer Mohajer" [ref=e7] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e9]
+        - generic [ref=e12]: Energer Mohajer
+      - navigation "Navigation principale" [ref=e13]:
+        - link "Services" [ref=e14] [cursor=pointer]:
+          - /url: "#services"
+        - link "Démarche" [ref=e15] [cursor=pointer]:
+          - /url: "#demarche"
+        - link "Réalisations" [ref=e16] [cursor=pointer]:
+          - /url: "#realisations"
+        - link "Appeler le +212 616-028274" [ref=e17] [cursor=pointer]:
+          - /url: tel:+212616028274
+          - img [ref=e18]
+          - text: +212 616-028274
+  - generic [ref=e21]:
+    - generic [ref=e22]:
+      - paragraph [ref=e23]: Installation photovoltaïque clé en main
+      - heading "Produisez votre propre électricité. Réduisez votre facture." [level=1] [ref=e24]
+      - paragraph [ref=e25]: "Étude, dimensionnement, pose et suivi : nous installons des panneaux solaires pour les maisons, les entreprises et les sites industriels, partout au Maroc."
+      - generic [ref=e26]:
+        - link "Demander mon étude" [ref=e27] [cursor=pointer]:
+          - /url: "#formulaire"
+          - text: Demander mon étude
+          - img [ref=e28]
+        - link "Voir nos réalisations" [ref=e30] [cursor=pointer]:
+          - /url: "#realisations"
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - img [ref=e33]
+          - text: Étude gratuite
+        - listitem [ref=e35]:
+          - img [ref=e36]
+          - text: Sans engagement
+        - listitem [ref=e38]:
+          - img [ref=e39]
+          - text: Suivi après installation
+    - img "Panneaux solaires installés au sol sous un ciel bleu" [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - heading "Votre étude solaire gratuite" [level=2] [ref=e44]
+          - paragraph [ref=e45]: Un conseiller vous rappelle sous [24 h].
+        - generic [ref=e46]:
+          - generic [ref=e47]: Nom complet
+          - textbox "Nom complet" [ref=e48]:
+            - /placeholder: Ex. Karim Alaoui
+        - generic [ref=e49]:
+          - generic [ref=e50]:
+            - generic [ref=e51]: Téléphone
+            - textbox "Téléphone" [ref=e52]:
+              - /placeholder: 06 XX XX XX XX
+          - generic [ref=e53]:
+            - generic [ref=e54]: Ville
+            - textbox "Ville" [ref=e55]:
+              - /placeholder: Casablanca
+        - generic [ref=e56]:
+          - generic [ref=e57]: Type de projet
+          - combobox "Type de projet" [ref=e58]:
+            - option "Maison / villa" [selected]
+            - option "Entreprise / bureaux"
+            - option "Site industriel"
+            - option "Agricole / pompage"
+        - generic [ref=e59]:
+          - generic [ref=e60]: Facture d'électricité mensuelle
+          - combobox "Facture d'électricité mensuelle" [ref=e61]:
+            - option "Moins de 1 000 DH" [selected]
+            - option "1 000 à 2 500 DH"
+            - option "2 500 à 5 000 DH"
+            - option "Plus de 5 000 DH"
+        - button "Recevoir mon étude gratuite" [ref=e62] [cursor=pointer]
+        - paragraph [ref=e63]: Vos données servent uniquement à vous recontacter.
+  - generic [ref=e65]:
+    - generic [ref=e66]:
+      - generic [ref=e67]:
+        - paragraph [ref=e68]: Nos services
+        - heading "Une installation adaptée à chaque besoin" [level=2] [ref=e69]
+      - paragraph [ref=e70]: Du toit d'une villa à la toiture d'une usine, nous concevons chaque système à partir de votre consommation réelle.
+    - generic [ref=e71]:
+      - article [ref=e72]:
+        - img "Structure solaire surélevée sur une terrasse résidentielle" [ref=e73]
+        - generic [ref=e74]:
+          - heading "Résidentiel" [level=3] [ref=e75]
+          - paragraph [ref=e76]: Panneaux sur toit ou terrasse, avec structure surélevée pour garder l'espace utilisable.
+      - article [ref=e77]:
+        - img "Champ de panneaux sur la toiture d'un bâtiment commercial" [ref=e78]
+        - generic [ref=e79]:
+          - heading "Entreprises & industrie" [level=3] [ref=e80]
+          - paragraph [ref=e81]: Centrales en toiture pour bureaux, hôtels, entrepôts et usines, raccordées au réseau.
+      - article [ref=e82]:
+        - img "Onduleurs et batteries de stockage installés au mur" [ref=e83]
+        - generic [ref=e84]:
+          - heading "Stockage par batteries" [level=3] [ref=e85]
+          - paragraph [ref=e86]: Onduleurs hybrides et batteries lithium pour consommer votre énergie le soir et en cas de coupure.
+      - article [ref=e87]:
+        - img "Deux techniciens posant des panneaux sur un toit plat" [ref=e88]
+        - generic [ref=e89]:
+          - heading "Maintenance & suivi" [level=3] [ref=e90]
+          - paragraph [ref=e91]: Nettoyage, contrôle de production et intervention rapide pour garder un rendement optimal.
+  - generic [ref=e93]:
+    - generic [ref=e94]:
+      - generic [ref=e95]:
+        - paragraph [ref=e96]: Notre démarche
+        - heading "De l'étude à la mise en service, un seul interlocuteur" [level=2] [ref=e97]
+      - link "Démarrer mon projet" [ref=e98] [cursor=pointer]:
+        - /url: "#formulaire"
+    - generic [ref=e99]:
+      - generic [ref=e100]:
+        - generic [ref=e101]: "01"
+        - heading "Visite & étude" [level=3] [ref=e102]
+        - paragraph [ref=e103]: Nous analysons vos factures, votre toiture et l'ensoleillement du site.
+      - generic [ref=e104]:
+        - generic [ref=e105]: "02"
+        - heading "Dimensionnement & devis" [level=3] [ref=e106]
+        - paragraph [ref=e107]: "Puissance, matériel et économies estimées : un devis clair, poste par poste."
+      - generic [ref=e108]:
+        - generic [ref=e109]: "03"
+        - heading "Installation" [level=3] [ref=e110]
+        - paragraph [ref=e111]: Pose par nos techniciens, dans le respect des normes de sécurité.
+      - generic [ref=e112]:
+        - generic [ref=e113]: "04"
+        - heading "Mise en service & suivi" [level=3] [ref=e114]
+        - paragraph [ref=e115]: Raccordement, contrôle de production et accompagnement dans la durée.
+  - generic [ref=e117]:
+    - img "Technicien sous une grande rangée de panneaux solaires au sol" [ref=e118]
+    - generic [ref=e119]:
+      - paragraph [ref=e120]: Pourquoi nous choisir
+      - heading "Du matériel fiable, posé par des équipes qualifiées" [level=2] [ref=e121]
+      - list [ref=e122]:
+        - listitem [ref=e123]:
+          - img [ref=e125]
+          - generic [ref=e128]:
+            - heading "Équipements certifiés" [level=3] [ref=e129]
+            - paragraph [ref=e130]: Panneaux et onduleurs de marques reconnues, garantis par le fabricant.
+        - listitem [ref=e131]:
+          - img [ref=e133]
+          - generic [ref=e136]:
+            - heading "Économies mesurées" [level=3] [ref=e137]
+            - paragraph [ref=e138]: Une estimation chiffrée avant le chantier, puis un suivi de la production réelle.
+        - listitem [ref=e139]:
+          - img [ref=e141]
+          - generic [ref=e144]:
+            - heading "Réactivité" [level=3] [ref=e145]
+            - paragraph [ref=e146]: Un technicien joignable directement en cas de question ou de panne.
+      - generic [ref=e147]:
+        - generic [ref=e148]:
+          - strong [ref=e149]: "[XX]"
+          - text: installations réalisées
+        - generic [ref=e150]:
+          - strong [ref=e151]: "[XX] kWc"
+          - text: puissance installée
+        - generic [ref=e152]:
+          - strong [ref=e153]: "[XX] ans"
+          - text: garantie panneaux
+  - generic [ref=e155]:
+    - generic [ref=e156]:
+      - generic [ref=e157]:
+        - paragraph [ref=e158]: Réalisations
+        - heading "Quelques chantiers récents" [level=2] [ref=e159]
+      - link "Tous les projets" [ref=e160] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=e161]:
+      - figure "[Ville] · [XX] kWc · Tertiaire" [ref=e162]:
+        - img "Toiture commerciale équipée de panneaux solaires" [ref=e163]
+        - generic [ref=e164]: "[Ville] · [XX] kWc · Tertiaire"
+      - figure "[Ville] · [XX] kWc · Villa" [ref=e165]:
+        - img "Installation solaire sur la terrasse d'une maison" [ref=e166]
+        - generic [ref=e167]: "[Ville] · [XX] kWc · Villa"
+      - figure "[Ville] · [XX] kWc · Entrepôt" [ref=e168]:
+        - img "Pose de panneaux sur un toit plat" [ref=e169]
+        - generic [ref=e170]: "[Ville] · [XX] kWc · Entrepôt"
+  - generic [ref=e173]:
+    - generic [ref=e174]:
+      - heading "Combien pourriez-vous économiser ?" [level=2] [ref=e175]
+      - paragraph [ref=e176]: "Envoyez-nous votre dernière facture : nous vous répondons avec une estimation gratuite."
+    - generic [ref=e177]:
+      - link "Demander mon étude" [ref=e178] [cursor=pointer]:
+        - /url: "#formulaire"
+      - link "WhatsApp" [ref=e179] [cursor=pointer]:
+        - /url: https://wa.me/212616028274
+        - img [ref=e180]
+        - text: WhatsApp
+  - contentinfo [ref=e182]:
+    - generic [ref=e183]:
+      - generic [ref=e184]:
+        - heading "Energer Mohajer" [level=4] [ref=e185]
+        - paragraph [ref=e186]: Installation de panneaux solaires pour particuliers et professionnels au Maroc.
+      - generic [ref=e187]:
+        - heading "Services" [level=4] [ref=e188]
+        - link "Résidentiel" [ref=e189] [cursor=pointer]:
+          - /url: "#services"
+        - link "Entreprises & industrie" [ref=e190] [cursor=pointer]:
+          - /url: "#services"
+        - link "Stockage" [ref=e191] [cursor=pointer]:
+          - /url: "#services"
+        - link "Maintenance" [ref=e192] [cursor=pointer]:
+          - /url: "#services"
+      - generic [ref=e193]:
+        - heading "Contact" [level=4] [ref=e194]
+        - paragraph [ref=e195]: +212 616-028274
+        - paragraph [ref=e196]: "[contact@votremarque.ma]"
+        - paragraph [ref=e197]: "[Adresse, Ville]"
+      - generic [ref=e198]:
+        - heading "Horaires" [level=4] [ref=e199]
+        - paragraph [ref=e200]: "[Lun – Ven : 9 h – 18 h]"
+        - paragraph [ref=e201]: "[Sam : 9 h – 13 h]"
+    - paragraph [ref=e203]: © 2026 Energer Mohajer. Tous droits réservés.
